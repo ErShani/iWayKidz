@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\classes-525bb1ea526ca61a794cb31f3844612a2d239d11.jar" />
+    </item>
+    <item
+        jar="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\classes-29b5ff29d00affe0b7fd3b3c12a6547ee9ac0247.jar" />
+    </item>
+    <item
+        jar="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\classes-b527f58c07bd9ec83cb5366c7c5c85df4330e078.jar" />
+    </item>
+    <item
+        jar="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\classes-aeece73f1dd0541730ab512c852e025686a30246.jar" />
+    </item>
+    <item
+        jar="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\classes-01b714ea68dd6f4a509c7da96910d2eacb05d288.jar" />
+    </item>
+    <item
+        jar="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\classes-03e1f0f8107e6398b7a72e3b53a48e5ead2c153c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\classes-57c63eb9f66b4ba5be99f6e9c9a1f57ec9eeb246.jar" />
+    </item>
+    <item
+        jar="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\classes-c9ff105b8a74c6c1aaf315446caa6db253b96aa6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\classes-537fc476dd95b7758aba9c9ceb5e40fd79a5827f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\classes-63b8c2fb47db3fafe7229ffc74f96729ca24541a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\classes-b8915c514005b360ad2bb8e4c133a31b4cde05d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\classes-7150c16430c437e2635e233efa9465840d2dc3d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\classes-c0307bef39deaa7bc9dc8ebfdb2d1dfd08fecc76.jar" />
+    </item>
+    <item
+        jar="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\classes-ff6aa48dd6355ae857ee6297c649c5b0717ad6de.jar" />
+    </item>
+    <item
+        jar="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\classes-0c9e7db68369c9ce89d169a5ca8ed98248d0f247.jar" />
+    </item>
+    <item
+        jar="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\classes-3a78cb67a0597acc51a56052d7c8acf983afa241.jar" />
+    </item>
+    <item
+        jar="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\classes-f749a3e3f13284e2171284b295e228fa2547de92.jar" />
+    </item>
+    <item
+        jar="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\classes-0c91dad5ab8bb2e6cea0c21b40e1d5d500e2bba0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Duratec\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-280c86eb9e52a3011498e60a22f30c7c903f2f85.jar" />
+    </item>
+    <item
+        jar="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\classes-47aade9d426a21bbd803f11ceed6a31e796cb6f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\classes-0695faeb34fd345ea1e773a7899d4fa667cf8bf7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\classes-4c777b0459a05b31f26dff3cda06eb81a43abf65.jar" />
+    </item>
+    <item
+        jar="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\classes-a53a66a919da25e10d1dd97a1fbb2a92eddcbdd2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-b74ab1a1219295b9e04f7dd9cbeeb3f5e105cd35.jar" />
+    </item>
+    <item
+        jar="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\classes-f5514cf1e5c757195074736229bf6bce8e76ee28.jar" />
+    </item>
+    <item
+        jar="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="C:\Users\Duratec\Desktop\iwaykidz Project n Pics\iWayKids\app\build\intermediates\pre-dexed\debug\classes-00016f4b9aee0fcda03ac89268240a0da40b7496.jar" />
+    </item>
+
+</items>
